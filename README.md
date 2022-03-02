@@ -1,5 +1,6 @@
-### Hi I'm Will
-### I'm a Software Engineer
+### Hi I'm Will👋
+
+<a href="https://www.linkedin.com/in/will-duffy-a46a7a8a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 <br />
 
