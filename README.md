@@ -15,7 +15,7 @@
  ### I'm a Software Engineer looking for new opportunities 
   
 * 💿 Take a look at my portfolio [here].
-* 🔭 I’m currently adjusting responsive web design for all my projects, and refactoring components for Tradetwits.
+* 🔭 I’m currently adjusting responsive web design for all my projects.
 - 🥅 My goal is to always be learning more!
 * 📫 [Let's connect!](https://www.linkedin.com/in/will-duffy-a46a7a8a/)
   
