@@ -11,6 +11,13 @@
 <br />
   
   <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+  
+ ### I am a Software Engineer looking for new opportunities 
+  
+* 💿 Take a look at my portfolio [here].
+* 🔭 I’m currently adjusting responsive web design for all my projects, and refactoring components for Tradetwits.
+- 🥅 My goal is to always be learning more!
+* 📫 [Let's connect!](https://www.linkedin.com/in/will-duffy-a46a7a8a/)
 
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
 <p>
@@ -32,6 +39,9 @@
 
 <br />
 
+#### Thank You
+
+⭐️ [Will](https://github.com/w-duffy)
 <!--
 **w-duffy/w-duffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
