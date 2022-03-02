@@ -1,4 +1,9 @@
-### Hi I'm Will👋
+<p>
+  <h1 align="center"><b>Hi, I'm Will 👋</b></h1>
+</p>
+
+<p align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/will-duffy-a46a7a8a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
