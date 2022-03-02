@@ -9,6 +9,8 @@
 <a href="mailto:w.duffy@outlook.com?subject=Hello%20Will"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
 
 <br />
+  
+  <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
 <p>
