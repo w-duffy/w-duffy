@@ -16,7 +16,7 @@
   
 * 💿 Take a look at my portfolio [here].
 * 🔭 I’m currently adjusting responsive web design for all my projects.
-- 🥅 My goal is to always be learning more!
+* 🥅 My goal is to always be learning more!
 * 📫 [Let's connect!](https://www.linkedin.com/in/will-duffy-a46a7a8a/)
   
 <br>
