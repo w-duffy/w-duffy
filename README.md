@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-<br>
 
-<a href="https://www.linkedin.com/in/will-duffy-a46a7a8a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:w.duffy@outlook.com?subject=Hello%20Will"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
-
-<br />
   
   <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
   
@@ -40,6 +35,13 @@
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+<br />
+
+<br>
+
+<a href="https://www.linkedin.com/in/will-duffy-a46a7a8a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:w.duffy@outlook.com?subject=Hello%20Will"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
 
 <br />
 
