@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/will-duffy-a46a7a8a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:w.duffy@outlook.com?subject=Hello%20Will"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
 
-<!-- <br /> -->
+<br />
   
   <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
   
@@ -18,7 +18,7 @@
 * 🔭 I’m currently adjusting responsive web design for all my projects.
 * 🥅 My goal is to always be learning more!
 * 📫 [Let's connect!](https://www.linkedin.com/in/will-duffy-a46a7a8a/)
-  
+<br>
 <br>
 
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
