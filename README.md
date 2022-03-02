@@ -12,7 +12,7 @@
   
   <img align="right" height="270px" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
   
- ### I am a Software Engineer looking for new opportunities 
+ ### I'm a Software Engineer looking for new opportunities 
   
 * 💿 Take a look at my portfolio [here].
 * 🔭 I’m currently adjusting responsive web design for all my projects, and refactoring components for Tradetwits.
