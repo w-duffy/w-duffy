@@ -20,8 +20,7 @@
 * 📫 [Let's connect!](https://www.linkedin.com/in/will-duffy-a46a7a8a/)
   
 <br>
-  </br>
-  <br>
+
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
