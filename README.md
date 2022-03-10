@@ -15,7 +15,7 @@
   
  ### I'm a Software Engineer looking for new opportunities 
   
-<!-- * 💿 Take a look at my portfolio [here]. -->
+* 💿 Take a look at my portfolio [here](https://w-duffy.github.io/).
 * 🔭 I’m currently adjusting responsive web design for all my projects.
 * 🥅 My goal is to always be learning more!
 * 💬 Let me know if you have any questions, I'm happy to help. 
