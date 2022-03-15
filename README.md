@@ -46,7 +46,7 @@
 
 
 
-#### Thank You
+#### Thank You,
 
 ⭐️ [Will Duffy](https://github.com/w-duffy)
 <!--
