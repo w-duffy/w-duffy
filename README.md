@@ -1,3 +1,4 @@
+<!--
 <p>
   <h1 align="center"><b>Hello, I'm Will 👋 </b></h1>
 </p>
@@ -44,7 +45,7 @@
 #### Thank You,
 
 ⭐️ [Will Duffy](https://github.com/w-duffy)
-
+-->
 <a href="https://www.linkedin.com/in/will-duffy-a46a7a8a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:w.duffy@outlook.com?subject=Hello%20Will"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
 <!--
